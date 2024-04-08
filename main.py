@@ -47,7 +47,7 @@ def send_initial_message():
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•──────────────────────SUNNY HERE ───────────────────────────────•')
+          print('\033[1;92m' + '•──────────────────────CHARSI HERE ───────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
